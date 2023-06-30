@@ -1,0 +1,4 @@
+name: CustomItemTutorial
+version: '1.0-SNAPSHOT'
+main: com.buby.customitemtutorial.CustomItemTutorial
+api-version: 1.19

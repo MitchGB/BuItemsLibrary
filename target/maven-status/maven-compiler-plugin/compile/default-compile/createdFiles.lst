@@ -1,0 +1,13 @@
+com\bu\buitemslibrary\eventhandler\ListenerRegistry.class
+com\bu\buitemslibrary\util\ReflectionUtil.class
+com\bu\buitemslibrary\AbstractItem.class
+com\bu\buitemslibrary\itemtag\CustomModelData.class
+com\bu\buitemslibrary\util\PDCUtil.class
+com\bu\buitemslibrary\BuItemManager$2.class
+com\bu\buitemslibrary\eventhandler\EventContext.class
+com\bu\buitemslibrary\BuItemManager$1.class
+com\bu\buitemslibrary\itemtag\NotStackable.class
+com\bu\buitemslibrary\itemtag\ItemTagContext.class
+com\bu\buitemslibrary\itemstats\ItemStatInstance.class
+com\bu\buitemslibrary\itemtag\ItemTag.class
+com\bu\buitemslibrary\BuItemManager.class
